@@ -1,0 +1,5 @@
+C:\Users\Andiswa Ndlovu\Downloads\memory.cache.practice\memory.cache.practice\memory.test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\Andiswa Ndlovu\Downloads\memory.cache.practice\memory.cache.practice\memory.test\obj\Debug\netcoreapp3.1\memory.test.csproj.AssemblyReference.cache
+C:\Users\Andiswa Ndlovu\Downloads\memory.cache.practice\memory.cache.practice\memory.test\obj\Debug\netcoreapp3.1\memory.test.AssemblyInfoInputs.cache
+C:\Users\Andiswa Ndlovu\Downloads\memory.cache.practice\memory.cache.practice\memory.test\obj\Debug\netcoreapp3.1\memory.test.AssemblyInfo.cs
+C:\Users\Andiswa Ndlovu\Downloads\memory.cache.practice\memory.cache.practice\memory.test\obj\Debug\netcoreapp3.1\memory.test.csproj.CoreCompileInputs.cache
